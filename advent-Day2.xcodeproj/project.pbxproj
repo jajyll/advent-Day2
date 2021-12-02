@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EFC56DBC27596977009C656E /* advent-Day2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "advent-Day2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC56DBF27596977009C656E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EFC56DC6275969B1009C656E /* input.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		EFC56DBE27596977009C656E /* advent-Day2 */ = {
 			isa = PBXGroup;
 			children = (
+				EFC56DC6275969B1009C656E /* input.txt */,
 				EFC56DBF27596977009C656E /* main.cpp */,
 			);
 			path = "advent-Day2";
