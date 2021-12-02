@@ -11,7 +11,6 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
     string line;
     int pos_x = 0;
     int pos_z = 0;
